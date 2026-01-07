@@ -150,7 +150,7 @@ section{
 
 .main-container .image{
     z-index: -1;
-    width:40%;
+    width:30%;
 }
 
 .main-container .image img{
@@ -311,4 +311,5 @@ section{
 
         margin-bottom: 0px;
     }
+
 }
